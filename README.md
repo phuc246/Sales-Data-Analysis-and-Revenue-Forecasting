@@ -1,5 +1,5 @@
-# Sales-Data-Analysis-and-Revenue-Forecasting
-### Phân Tích Dữ Liệu Doanh Số và Dự Đoán Doanh Thu
+# Sales-Data-Analysis-and-Revenue-Forecasting-Retail
+### Phân Tích Dữ Liệu Doanh Số và Dự Đoán Doanh Thu Trong Lĩnh Vực Bán Lẻ
 Dự án này thực hiện phân tích dữ liệu doanh số và cung cấp các biểu đồ trực quan sử dụng **Streamlit**, **Pandas**, **Matplotlib**, và **Seaborn**. Mục tiêu là rút ra các thông tin quan trọng từ dữ liệu doanh số, hiển thị xu hướng và cho phép người dùng tương tác với kết quả thông qua giao diện web.
 
 ## Tổng Quan Dự Án
