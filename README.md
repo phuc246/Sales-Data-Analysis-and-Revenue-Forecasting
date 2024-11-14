@@ -69,12 +69,16 @@ streamlit run app.py
 ```
 ## Cấu Trúc Dự Án
 ```css
-/sales-data-analysis
+/Last_Project
 │
-├── app.py               # Tập lệnh chính của Streamlit
-├── requirements.txt     # Danh sách các thư viện cần thiết
-└── data/                # Thư mục chứa các tệp CSV dữ liệu doanh số
-    └── summary_data.csv # Ví dụ tệp dữ liệu
+├── Dashboard.py                         # Hệ thống tự động phân tích
+├── last_project.txt                     # Phân tích và trực quan hoá
+├── last_project_linear_regression.py    # Dự đoán dữ liệu có sẵn
+├── annualSales2020.csv                  # Bảng tổng hợp 12 tháng
+├── summary_data.csv                     # Bảng tổng hợp phân tích  
+└── Sales-Reporting-main/
+        └── data/                        # Thư mục chứa các tệp CSV dữ liệu doanh số 12 tháng
+            └── sales2019_1-12 
 ```
 ## Tệp summary_data.csv
 Tệp dữ liệu CSV này chứa thông tin về các đơn hàng, bao gồm các cột:
